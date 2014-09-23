@@ -6,6 +6,6 @@ Ce dépot disparaitra prochainement
 Liste des fichiers
 	Readme.MD
 	recette cake aux yaourts.doc
-	Images de cul
+	Images
 		Image1.jpg
 		Image2.jpg
