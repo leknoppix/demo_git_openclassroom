@@ -1,4 +1,4 @@
-Bienvenu sur mon depot de test pour la formation OpenClassRoom consacré à GITHUB
+Bienvenu sur mon depot de test pour la formation OpenClassRooms consacré à GITHUB
 =============
 
 Ce dépot disparaitra prochainement
